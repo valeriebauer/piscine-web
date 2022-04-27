@@ -1,0 +1,31 @@
+body, html {
+  height: 100%;
+}
+
+.parallax1 {
+  /* The image used */
+  background-image: url("/mnt/nfs/homes/vbauer/piscine-web/cell01/image/rubi.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url("/mnt/nfs/homes/vbauer/piscine-web/cell01/image/emeraude.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
